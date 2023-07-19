@@ -28,7 +28,7 @@ Our goal is to develop a model that will classify the customers into two groups;
 - *internet.csv:* information about Internet services
 - *phone.csv:* information about telephone services
 
-## Required Libraries
+## Requirements
 - pandas
 - numpy
 - matplotlib.pyplot
